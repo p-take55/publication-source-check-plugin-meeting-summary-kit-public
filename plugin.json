@@ -1,0 +1,6 @@
+{
+  "name": "meeting-summary-kit",
+  "version": "1.0.0",
+  "description": "会議記録から決定事項・未解決の論点・次のアクションを推測なしで整理するSkill。",
+  "skills": "./skills/"
+}
